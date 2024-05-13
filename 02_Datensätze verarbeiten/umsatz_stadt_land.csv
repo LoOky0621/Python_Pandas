@@ -1,0 +1,1381 @@
+,Land,Stadt,Umsatz
+0,Südkorea,Seoul,5534.55
+1,Südkorea,Seoul,6284.7
+2,Vereinigtes Königreich,London,5437.65
+3,China,Peking,8587.2
+4,USA,Los Angeles,9439.05
+5,USA,Los Angeles,5506.35
+6,Südkorea,Seoul,6589.8
+7,USA,Los Angeles,6166.05
+8,Südkorea,Seoul,10650.6
+9,USA,Los Angeles,8602.05
+10,USA,Los Angeles,5246.4
+11,China,Peking,6857.4
+12,Deutschland,Berlin,7771.5
+13,Südkorea,Seoul,6337.65
+14,Deutschland,Berlin,8289.75
+15,Südkorea,Seoul,10390.5
+16,Südkorea,Seoul,7198.2
+17,Südkorea,Seoul,7931.7
+18,China,Peking,3970.95
+19,USA,Los Angeles,9539.1
+20,Südkorea,Seoul,6535.2
+21,Deutschland,Berlin,4127.1
+22,Deutschland,Berlin,9112.95
+23,Südkorea,Seoul,5137.65
+24,Südkorea,Seoul,6381.75
+25,Deutschland,Berlin,7612.05
+26,USA,Los Angeles,7007.85
+27,Mexiko,Oaxaca,7071.6
+28,Deutschland,Berlin,7543.65
+29,Südkorea,Seoul,5849.7
+30,China,Peking,4834.8
+31,Deutschland,Berlin,6253.65
+32,USA,Los Angeles,5889.6
+33,Südkorea,Seoul,4778.1
+34,China,Peking,7172.7
+35,Südkorea,Seoul,5153.4
+36,Mexiko,Oaxaca,4595.25
+37,China,Peking,6168.9
+38,Mexiko,Oaxaca,4276.35
+39,Südkorea,Seoul,4943.55
+40,Südkorea,Busan,5840.25
+41,Deutschland,Berlin,9094.05
+42,USA,Las Vegas,8994.3
+43,USA,Las Vegas,6670.35
+44,Vereinigtes Königreich,London,8422.65
+45,Mexiko,Oaxaca,6861.6
+46,Südkorea,Busan,8130.0
+47,China,Shanghai,5532.3
+48,Deutschland,Berlin,6716.55
+49,USA,Las Vegas,9042.3
+50,Vereinigtes Königreich,London,8451.6
+51,China,Shanghai,6597.15
+52,Vereinigtes Königreich,London,11326.5
+53,Mexiko,Oaxaca,4633.35
+54,USA,Las Vegas,5905.35
+55,Deutschland,Berlin,7496.55
+56,Vereinigtes Königreich,London,4964.25
+57,Deutschland,Berlin,7787.25
+58,USA,Las Vegas,8631.45
+59,Vereinigtes Königreich,London,4506.0
+60,Südkorea,Busan,5845.35
+61,Südkorea,Busan,12189.45
+62,Südkorea,Busan,7023.45
+63,USA,Las Vegas,7672.8
+64,Vereinigtes Königreich,London,8471.7
+65,China,Shanghai,4508.25
+66,Deutschland,Berlin,4499.55
+67,USA,Las Vegas,5460.6
+68,Südkorea,Busan,6576.15
+69,USA,Las Vegas,5937.75
+70,Deutschland,Berlin,5302.35
+71,Mexiko,Oaxaca,9707.55
+72,Deutschland,Berlin,11228.1
+73,USA,Las Vegas,9145.65
+74,Südkorea,Busan,6529.65
+75,Deutschland,Berlin,8846.25
+76,USA,Seattle,9833.7
+77,China,Shanghai,7121.85
+78,Südkorea,Busan,6400.95
+79,Deutschland,Berlin,8325.0
+80,Südkorea,Busan,4784.55
+81,USA,Seattle,4319.7
+82,USA,Seattle,5961.0
+83,USA,Seattle,7283.85
+84,USA,Seattle,4405.05
+85,Mexiko,Oaxaca,7329.9
+86,Deutschland,Berlin,5429.85
+87,Südkorea,Busan,10140.3
+88,USA,Seattle,6071.7
+89,Vereinigtes Königreich,London,7130.25
+90,USA,Seattle,6353.85
+91,Deutschland,München,9379.8
+92,Südkorea,Busan,9439.65
+93,China,Shanghai,5171.55
+94,Deutschland,München,9021.3
+95,Südkorea,Busan,5113.8
+96,USA,Seattle,7737.15
+97,China,Shanghai,6868.8
+98,China,Shanghai,5157.3
+99,Südkorea,Busan,10564.05
+100,Südkorea,Busan,5310.45
+101,Südkorea,Incheon,4947.75
+102,China,Shanghai,4057.2
+103,USA,Seattle,6479.4
+104,Südkorea,Incheon,8243.85
+105,China,Chongqing,5644.65
+106,Südkorea,Incheon,6676.65
+107,Südkorea,Incheon,4021.8
+108,USA,Seattle,8594.4
+109,Vereinigtes Königreich,London,4926.75
+110,Deutschland,München,8622.15
+111,Mexiko,Oaxaca,6930.9
+112,USA,Miami,5569.95
+113,China,Chongqing,5395.35
+114,Deutschland,München,7019.55
+115,Mexiko,Oaxaca,3688.65
+116,Südkorea,Incheon,5586.3
+117,USA,Miami,5505.0
+118,Südkorea,Incheon,6023.1
+119,Mexiko,Oaxaca,2193.6
+120,China,Chongqing,4431.75
+121,Südkorea,Incheon,4134.75
+122,Südkorea,Incheon,4602.3
+123,Vereinigtes Königreich,London,8779.2
+124,Mexiko,Oaxaca,6492.3
+125,China,Chongqing,5561.25
+126,Südkorea,Incheon,3491.25
+127,Südkorea,Incheon,4682.85
+128,Südkorea,Incheon,9327.0
+129,Südkorea,Incheon,4667.7
+130,USA,Miami,7501.05
+131,USA,Miami,9297.75
+132,Deutschland,München,8548.95
+133,USA,Miami,5713.65
+134,China,Chongqing,4125.75
+135,Südkorea,Incheon,6262.65
+136,China,Chongqing,5613.0
+137,China,Chongqing,5003.7
+138,China,Shenzhen,4386.45
+139,Deutschland,München,7527.15
+140,China,Shenzhen,5089.05
+141,Mexiko,Oaxaca,5820.15
+142,Südkorea,Incheon,8481.75
+143,USA,Miami,6945.45
+144,China,Shenzhen,5942.7
+145,Südkorea,Daegu,7858.2
+146,China,Shenzhen,5490.3
+147,Deutschland,München,8147.1
+148,China,Shenzhen,3692.25
+149,Deutschland,München,5899.8
+150,USA,Miami,5144.55
+151,Südkorea,Daegu,6907.2
+152,Vereinigtes Königreich,London,4138.95
+153,Südkorea,Daegu,4523.4
+154,USA,Houston,7556.85
+155,Südkorea,Daegu,7718.1
+156,Mexiko,Puebla,8208.45
+157,Südkorea,Daegu,3796.05
+158,Deutschland,München,8824.2
+159,USA,Houston,6566.85
+160,China,Shenzhen,6194.85
+161,USA,Houston,7449.3
+162,Mexiko,Puebla,5549.4
+163,China,Shenzhen,6672.6
+164,Deutschland,München,5804.85
+165,Südkorea,Daegu,9264.75
+166,Deutschland,München,9183.0
+167,Südkorea,Daegu,4847.7
+168,Deutschland,München,5431.35
+169,Vereinigtes Königreich,London,3208.5
+170,China,Guangzhou,6310.95
+171,Vereinigtes Königreich,London,4195.05
+172,Deutschland,München,5496.45
+173,Südkorea,Daegu,6198.15
+174,Südkorea,Daegu,7370.85
+175,Vereinigtes Königreich,London,6883.5
+176,USA,Houston,5096.4
+177,USA,Houston,9855.15
+178,Südkorea,Daegu,4320.45
+179,Südkorea,Daegu,5602.05
+180,Mexiko,Puebla,4528.8
+181,Deutschland,München,8519.85
+182,Südkorea,Daegu,5446.35
+183,Mexiko,Puebla,6615.75
+184,Südkorea,Daegu,4798.95
+185,Deutschland,Hannover,7529.85
+186,Südkorea,Daegu,3970.65
+187,Mexiko,Puebla,5171.7
+188,Mexiko,Puebla,7775.4
+189,USA,Houston,8656.95
+190,USA,Houston,6334.5
+191,USA,Houston,9067.35
+192,Mexiko,Puebla,5080.8
+193,Südkorea,Daejeon,2823.45
+194,USA,Houston,6114.3
+195,China,Guangzhou,4776.45
+196,USA,Houston,8737.5
+197,Südkorea,Daejeon,8157.0
+198,USA,Houston,8983.95
+199,USA,Houston,7414.8
+200,Mexiko,Puebla,5680.2
+201,Vereinigtes Königreich,London,4713.0
+202,China,Guangzhou,5687.1
+203,Vereinigtes Königreich,London,8206.8
+204,USA,Houston,7061.4
+205,USA,Portland,6714.9
+206,USA,Portland,8833.8
+207,USA,Portland,7419.45
+208,Vereinigtes Königreich,Manchester,7929.15
+209,China,Guangzhou,2608.2
+210,USA,Portland,7240.35
+211,Vereinigtes Königreich,Manchester,4402.35
+212,Südkorea,Daejeon,5625.0
+213,Deutschland,Hannover,9233.4
+214,Südkorea,Daejeon,6363.3
+215,USA,Portland,5629.2
+216,China,Guangzhou,6674.4
+217,Deutschland,Hannover,7829.55
+218,China,Guangzhou,3237.75
+219,Mexiko,Puebla,8255.4
+220,USA,Portland,7669.05
+221,Deutschland,Hannover,6746.7
+222,Deutschland,Hannover,11168.25
+223,Vereinigtes Königreich,Manchester,6284.1
+224,Vereinigtes Königreich,Manchester,5839.95
+225,USA,Portland,6838.5
+226,China,Guangzhou,3992.4
+227,Deutschland,Hannover,6277.2
+228,USA,Portland,4792.2
+229,Südkorea,Daejeon,2122.2
+230,China,Wuhan,5023.35
+231,USA,Portland,3949.8
+232,Südkorea,Daejeon,6627.6
+233,Südkorea,Daejeon,4209.15
+234,Mexiko,Puebla,4766.1
+235,Mexiko,Puebla,7729.2
+236,USA,Portland,10502.1
+237,USA,Detroit,7094.4
+238,Vereinigtes Königreich,Manchester,7451.7
+239,China,Wuhan,5460.75
+240,Südkorea,Daejeon,6454.5
+241,USA,Detroit,7398.75
+242,Deutschland,Hannover,8863.35
+243,Südkorea,Daejeon,4982.1
+244,USA,Detroit,7623.6
+245,Südkorea,Daejeon,6353.1
+246,USA,Detroit,4927.95
+247,USA,Detroit,5653.35
+248,Mexiko,Puebla,7067.7
+249,USA,Detroit,8110.5
+250,USA,Detroit,4433.7
+251,USA,Detroit,4954.2
+252,Mexiko,Veracruz,6609.9
+253,Südkorea,Daejeon,4082.1
+254,USA,Detroit,8219.25
+255,USA,Detroit,6629.7
+256,Südkorea,Daejeon,5734.35
+257,USA,Detroit,5287.05
+258,USA,Detroit,6337.35
+259,USA,Detroit,6812.55
+260,USA,Portland,4273.8
+261,China,Wuhan,5420.1
+262,Deutschland,Hannover,7609.35
+263,USA,Portland,6046.95
+264,Deutschland,Hannover,6892.95
+265,Vereinigtes Königreich,Manchester,6472.8
+266,Südkorea,Daejeon,9752.1
+267,Deutschland,Hannover,8967.0
+268,Mexiko,Veracruz,4487.85
+269,USA,Portland,7951.5
+270,USA,Portland,4648.8
+271,China,Wuhan,4858.35
+272,China,Wuhan,5170.05
+273,USA,Portland,8608.35
+274,China,Wuhan,6747.15
+275,China,Wuhan,4182.0
+276,Vereinigtes Königreich,Manchester,6430.5
+277,USA,Portland,8220.15
+278,Südkorea,Gwangju,6187.8
+279,Südkorea,Gwangju,8526.75
+280,Südkorea,Gwangju,6481.8
+281,USA,Portland,8104.05
+282,USA,Portland,7971.75
+283,Mexiko,Veracruz,5402.7
+284,USA,Portland,7450.35
+285,Südkorea,Gwangju,5780.4
+286,Deutschland,Hannover,8439.75
+287,Deutschland,Hannover,9133.8
+288,Südkorea,Gwangju,5716.05
+289,Mexiko,Veracruz,4090.2
+290,Südkorea,Gwangju,7597.8
+291,Vereinigtes Königreich,Manchester,6995.4
+292,Südkorea,Gwangju,4672.5
+293,Südkorea,Gwangju,2756.7
+294,USA,Portland,4091.1
+295,Deutschland,Hannover,8039.85
+296,USA,Portland,5920.5
+297,Südkorea,Gwangju,4330.65
+298,Südkorea,Gwangju,6565.2
+299,Deutschland,Hannover,7238.25
+300,Mexiko,Veracruz,4089.75
+301,Südkorea,Gwangju,6386.7
+302,China,Wuhan,4296.75
+303,Südkorea,Ulsan,5283.0
+304,Deutschland,Hannover,6944.7
+305,Deutschland,Hannover,6096.15
+306,China,Dongguan,6448.65
+307,Vereinigtes Königreich,Manchester,9498.75
+308,Deutschland,Hannover,11552.7
+309,Deutschland,Hannover,4195.35
+310,Südkorea,Ulsan,5197.5
+311,Vereinigtes Königreich,Manchester,5408.7
+312,Deutschland,Hannover,5086.5
+313,China,Dongguan,5936.25
+314,Südkorea,Ulsan,4559.85
+315,Südkorea,Ulsan,4480.65
+316,Mexiko,Veracruz,4515.3
+317,USA,Denver,9140.25
+318,Südkorea,Ulsan,5289.45
+319,Mexiko,Veracruz,6936.6
+320,Südkorea,Ulsan,7634.85
+321,Deutschland,Hannover,7638.0
+322,Deutschland,Hannover,5907.75
+323,Südkorea,Ulsan,12093.3
+324,Vereinigtes Königreich,Manchester,5640.9
+325,USA,Denver,7719.6
+326,Südkorea,Ulsan,6643.2
+327,China,Dongguan,5241.3
+328,Deutschland,Hannover,5156.55
+329,USA,Denver,4236.75
+330,China,Dongguan,6972.6
+331,USA,Denver,8302.95
+332,China,Dongguan,5892.0
+333,Südkorea,Ulsan,8496.9
+334,Mexiko,Veracruz,5104.95
+335,Südkorea,Ulsan,6159.3
+336,USA,Denver,4681.2
+337,Südkorea,Ulsan,5891.25
+338,Südkorea,Ulsan,3859.8
+339,USA,Denver,6860.85
+340,USA,Denver,5734.95
+341,Vereinigtes Königreich,Manchester,4671.75
+342,USA,Denver,9565.5
+343,USA,Denver,7279.2
+344,Deutschland,Hannover,9294.3
+345,Deutschland,Hannover,9065.25
+346,Mexiko,Veracruz,4472.1
+347,Vereinigtes Königreich,Manchester,8533.05
+348,USA,Denver,5570.85
+349,Südkorea,Ulsan,6458.85
+350,Südkorea,Ulsan,5418.0
+351,Südkorea,Ulsan,5707.35
+352,Vereinigtes Königreich,Manchester,7622.4
+353,Südkorea,Gangneung,3759.9
+354,Südkorea,Gangneung,7080.15
+355,Mexiko,Veracruz,6050.55
+356,China,Dongguan,5502.75
+357,Deutschland,Hannover,8143.5
+358,USA,Denver,7712.25
+359,China,Dongguan,5776.65
+360,China,Tianjin,4873.35
+361,Südkorea,Gangneung,3825.6
+362,USA,Denver,5938.8
+363,USA,Denver,4419.0
+364,Südkorea,Gangneung,3884.55
+365,Deutschland,Hannover,7270.65
+366,Südkorea,Gangneung,5283.75
+367,China,Tianjin,4496.25
+368,USA,Denver,7795.05
+369,Südkorea,Gangneung,6586.05
+370,Vereinigtes Königreich,Manchester,7890.45
+371,Südkorea,Gangneung,8762.4
+372,Südkorea,Gangneung,8589.9
+373,USA,Denver,7632.9
+374,USA,Denver,8977.35
+375,Südkorea,Gangneung,6019.05
+376,Südkorea,Gangneung,6482.4
+377,Deutschland,Hannover,9192.15
+378,Mexiko,Veracruz,9808.95
+379,USA,Denver,8303.55
+380,Südkorea,Gangneung,5722.05
+381,Mexiko,Veracruz,6718.95
+382,Mexiko,Veracruz,5386.5
+383,Südkorea,Gangneung,3395.4
+384,Südkorea,Gangneung,9809.7
+385,Mexiko,Veracruz,8519.25
+386,Mexiko,Veracruz,5667.6
+387,USA,Denver,7104.0
+388,China,Tianjin,4211.4
+389,Südkorea,Gangneung,2257.5
+390,Deutschland,Hannover,7978.8
+391,Südkorea,Seogwipo,4895.7
+392,USA,Denver,5701.35
+393,Deutschland,Hannover,8845.65
+394,Südkorea,Seogwipo,5347.2
+395,China,Tianjin,5110.5
+396,USA,Denver,5273.4
+397,China,Tianjin,5686.05
+398,Südkorea,Seogwipo,9272.85
+399,Südkorea,Seogwipo,7205.85
+400,China,Tianjin,7358.85
+401,Deutschland,Dortmund,7819.35
+402,Südkorea,Seogwipo,3327.9
+403,USA,Denver,9264.75
+404,China,Tianjin,6338.55
+405,Mexiko,Veracruz,5502.0
+406,Mexiko,Veracruz,7771.95
+407,Deutschland,Dortmund,8085.15
+408,Südkorea,Seogwipo,6522.15
+409,Südkorea,Seogwipo,6418.5
+410,Südkorea,Seogwipo,5115.45
+411,Mexiko,Monterrey,6160.5
+412,Deutschland,Dortmund,8822.1
+413,USA,Denver,9485.25
+414,Vereinigtes Königreich,Manchester,6599.4
+415,Südkorea,Seogwipo,5103.6
+416,Deutschland,Dortmund,8739.6
+417,USA,Richmond,7533.75
+418,Südkorea,Seogwipo,3467.85
+419,China,Tianjin,4442.25
+420,USA,Richmond,5276.55
+421,Mexiko,Monterrey,4909.65
+422,Südkorea,Seogwipo,6146.85
+423,Vereinigtes Königreich,Bristol,7983.45
+424,Vereinigtes Königreich,Bristol,8106.9
+425,Südkorea,Seogwipo,7834.35
+426,Deutschland,Dortmund,9307.2
+427,China,Tianjin,5389.35
+428,China,Tianjin,5770.35
+429,Vereinigtes Königreich,Bristol,7739.25
+430,China,Tianjin,4863.0
+431,Mexiko,Monterrey,5607.15
+432,Vereinigtes Königreich,Bristol,4835.55
+433,Südkorea,Seogwipo,5677.65
+434,Südkorea,Seogwipo,3852.9
+435,Südkorea,Gunpo,3671.25
+436,Vereinigtes Königreich,Bristol,4128.45
+437,Deutschland,Dortmund,7113.15
+438,China,Tianjin,6641.55
+439,USA,Richmond,10099.2
+440,Mexiko,Monterrey,8399.7
+441,Südkorea,Gunpo,4251.3
+442,Vereinigtes Königreich,Bristol,6127.35
+443,Südkorea,Gunpo,6747.75
+444,Mexiko,Monterrey,5353.65
+445,China,Tianjin,6520.05
+446,Vereinigtes Königreich,Bristol,2207.25
+447,Vereinigtes Königreich,Bristol,3094.95
+448,Südkorea,Gunpo,4189.5
+449,USA,Richmond,7267.8
+450,Mexiko,Monterrey,7630.65
+451,Südkorea,Gunpo,6406.35
+452,USA,Richmond,6407.85
+453,USA,Richmond,7437.3
+454,Mexiko,Monterrey,4717.2
+455,Deutschland,Dortmund,9259.05
+456,Südkorea,Gunpo,7523.7
+457,Südkorea,Gunpo,6467.1
+458,China,Tianjin,6151.8
+459,USA,Richmond,6764.7
+460,Südkorea,Gunpo,3873.6
+461,Südkorea,Gunpo,5129.25
+462,Vereinigtes Königreich,Bristol,7516.35
+463,Südkorea,Gunpo,4486.8
+464,Südkorea,Gunpo,7093.95
+465,Südkorea,Gunpo,8840.25
+466,Mexiko,Monterrey,5496.6
+467,Mexiko,Monterrey,7809.9
+468,Südkorea,Gunpo,6353.1
+469,Deutschland,Dortmund,6310.65
+470,Deutschland,Dortmund,9228.6
+471,Vereinigtes Königreich,Bristol,7559.4
+472,Deutschland,Dortmund,7114.05
+473,Deutschland,Dortmund,6722.25
+474,Mexiko,Monterrey,7322.55
+475,China,Tianjin,5323.8
+476,Südkorea,Gunpo,6134.7
+477,Vereinigtes Königreich,Bristol,6278.55
+478,China,Tianjin,5535.3
+479,USA,Richmond,5905.5
+480,Vereinigtes Königreich,Bristol,9309.6
+481,Südkorea,Gunpo,8270.85
+482,Südkorea,Chuncheon,4997.55
+483,Südkorea,Chuncheon,6277.5
+484,China,Tianjin,5570.4
+485,Mexiko,Monterrey,8264.85
+486,Vereinigtes Königreich,Bristol,6351.75
+487,China,Tianjin,6593.25
+488,Mexiko,Monterrey,6463.95
+489,Südkorea,Chuncheon,5778.9
+490,Deutschland,Dortmund,8227.5
+491,Deutschland,Dortmund,6290.4
+492,Deutschland,Dortmund,6385.5
+493,Deutschland,Dortmund,4963.35
+494,Mexiko,Ciudad Juárez,4197.0
+495,Südkorea,Chuncheon,3678.9
+496,Deutschland,Dortmund,7668.3
+497,Vereinigtes Königreich,Bristol,6665.1
+498,China,Nanjing,6330.45
+499,China,Nanjing,5305.95
+500,Mexiko,Ciudad Juárez,7043.7
+501,Südkorea,Chuncheon,6172.2
+502,USA,Richmond,4717.5
+503,Vereinigtes Königreich,Bristol,6036.9
+504,Südkorea,Chuncheon,7680.6
+505,Südkorea,Chuncheon,6326.55
+506,Deutschland,Dortmund,11433.75
+507,China,Nanjing,6559.8
+508,USA,Richmond,8307.3
+509,Südkorea,Chuncheon,6457.65
+510,Deutschland,Dortmund,9489.3
+511,USA,Richmond,8340.6
+512,USA,San José,2316.3
+513,Mexiko,Ciudad Juárez,5167.05
+514,USA,San José,6530.25
+515,USA,San José,7492.35
+516,Südkorea,Chuncheon,7749.6
+517,Südkorea,Chuncheon,5098.05
+518,Deutschland,Dortmund,7667.85
+519,USA,San José,7628.1
+520,Südkorea,Chuncheon,5754.9
+521,Deutschland,Dortmund,7547.1
+522,Südkorea,Chuncheon,5291.7
+523,Deutschland,Dortmund,7423.05
+524,Mexiko,Ciudad Juárez,7056.15
+525,China,Nanjing,5587.05
+526,Südkorea,Chuncheon,5667.45
+527,Vereinigtes Königreich,Bristol,7847.1
+528,Südkorea,Chuncheon,4708.65
+529,Südkorea,Chuncheon,6365.1
+530,China,Nanjing,4999.65
+531,USA,San José,6495.45
+532,Südkorea,Chuncheon,5085.3
+533,USA,San José,5654.25
+534,USA,San José,5631.75
+535,Mexiko,Ciudad Juárez,4020.45
+536,USA,San José,5579.55
+537,Vereinigtes Königreich,Liverpool,8419.2
+538,China,Nanjing,6427.95
+539,China,Nanjing,3724.8
+540,China,Nanjing,6444.75
+541,Mexiko,Ciudad Juárez,8824.8
+542,Südkorea,Chuncheon,7498.35
+543,China,Nanjing,4710.75
+544,Deutschland,Dortmund,9877.8
+545,Südkorea,Chuncheon,6001.8
+546,Deutschland,Dortmund,4492.8
+547,Vereinigtes Königreich,Liverpool,8833.8
+548,Vereinigtes Königreich,Liverpool,6723.3
+549,Vereinigtes Königreich,Liverpool,7188.3
+550,Südkorea,Chuncheon,8482.95
+551,USA,San José,7773.75
+552,Deutschland,Dortmund,6097.2
+553,China,Nanjing,4571.1
+554,Deutschland,Dortmund,8051.4
+555,Deutschland,Dortmund,8206.65
+556,Südkorea,Suncheon,5970.0
+557,Südkorea,Suncheon,4088.1
+558,Südkorea,Suncheon,7694.7
+559,Mexiko,Ciudad Juárez,4051.5
+560,Deutschland,Karlsruhe,5358.45
+561,Vereinigtes Königreich,Liverpool,7224.15
+562,Südkorea,Suncheon,8577.0
+563,Südkorea,Suncheon,3019.05
+564,USA,San José,5249.25
+565,Vereinigtes Königreich,Liverpool,5056.65
+566,Vereinigtes Königreich,Liverpool,7565.55
+567,USA,San José,7644.0
+568,Südkorea,Suncheon,6995.7
+569,Südkorea,Suncheon,6021.45
+570,USA,San José,8281.95
+571,USA,San José,5835.0
+572,Vereinigtes Königreich,Liverpool,3708.45
+573,Südkorea,Suncheon,5274.9
+574,Mexiko,Ciudad Juárez,9161.7
+575,Südkorea,Suncheon,9959.1
+576,Südkorea,Suncheon,5263.8
+577,Mexiko,Ciudad Juárez,6435.45
+578,Vereinigtes Königreich,Liverpool,6175.35
+579,Südkorea,Suncheon,5751.75
+580,Südkorea,Suncheon,2101.2
+581,Südkorea,Suncheon,6453.45
+582,Südkorea,Suncheon,4909.35
+583,Deutschland,Karlsruhe,6903.45
+584,Vereinigtes Königreich,Liverpool,9865.5
+585,Südkorea,Suncheon,3742.65
+586,Deutschland,Karlsruhe,8408.85
+587,China,Nanjing,5564.1
+588,Deutschland,Karlsruhe,9073.2
+589,China,Nanjing,3636.45
+590,Deutschland,Karlsruhe,8076.15
+591,Südkorea,Suncheon,6975.15
+592,Südkorea,Asan,5394.6
+593,Südkorea,Asan,9016.5
+594,Deutschland,Karlsruhe,6624.0
+595,China,Nanjing,4400.4
+596,Mexiko,Ciudad Juárez,6958.5
+597,China,Nanjing,5841.6
+598,Vereinigtes Königreich,Liverpool,8648.55
+599,Südkorea,Asan,9022.65
+600,Vereinigtes Königreich,Liverpool,4252.95
+601,Südkorea,Asan,5586.15
+602,Südkorea,Asan,6892.8
+603,Südkorea,Asan,4958.7
+604,USA,San José,8178.75
+605,Deutschland,Karlsruhe,6337.05
+606,Vereinigtes Königreich,Liverpool,4825.8
+607,Südkorea,Asan,5240.1
+608,USA,Honolulu,6050.4
+609,Südkorea,Asan,3249.15
+610,Südkorea,Asan,4275.45
+611,Vereinigtes Königreich,Liverpool,8573.85
+612,Südkorea,Asan,5018.85
+613,Deutschland,Karlsruhe,9219.75
+614,Deutschland,Karlsruhe,6940.95
+615,USA,Honolulu,6821.55
+616,China,Nanjing,6311.7
+617,China,Nanjing,4884.45
+618,Deutschland,Karlsruhe,7074.75
+619,USA,Honolulu,4419.75
+620,Vereinigtes Königreich,Liverpool,5533.8
+621,Südkorea,Asan,4706.4
+622,Südkorea,Asan,5591.7
+623,Deutschland,Karlsruhe,6849.15
+624,Vereinigtes Königreich,Liverpool,6204.75
+625,China,Nanjing,2648.55
+626,Südkorea,Asan,5996.85
+627,China,Nanjing,7157.55
+628,Südkorea,Asan,4128.15
+629,USA,Honolulu,6656.4
+630,Südkorea,Asan,6645.9
+631,Südkorea,Asan,6132.45
+632,Südkorea,Asan,8482.65
+633,Mexiko,Ciudad Juárez,6414.15
+634,Vereinigtes Königreich,Liverpool,6970.2
+635,China,Nanjing,6683.25
+636,Deutschland,Karlsruhe,9112.95
+637,Deutschland,Karlsruhe,5695.65
+638,USA,Honolulu,6320.7
+639,USA,Honolulu,8878.35
+640,USA,Honolulu,8965.2
+641,Deutschland,Karlsruhe,7924.5
+642,Mexiko,Cancún,5531.4
+643,Südkorea,Pyeongtaek,3519.6
+644,China,Nanjing,5514.75
+645,China,Nanjing,6817.05
+646,Südkorea,Pyeongtaek,7364.7
+647,China,Nanjing,4417.8
+648,Südkorea,Pyeongtaek,4817.1
+649,USA,Honolulu,8688.6
+650,Südkorea,Pyeongtaek,6123.9
+651,USA,Honolulu,13112.4
+652,Mexiko,Cancún,6350.55
+653,Deutschland,Karlsruhe,7561.05
+654,Südkorea,Pyeongtaek,6092.1
+655,Vereinigtes Königreich,Leeds,7252.95
+656,Deutschland,Karlsruhe,7704.6
+657,USA,Honolulu,6223.5
+658,China,Nanjing,6046.2
+659,Südkorea,Pyeongtaek,4754.85
+660,Mexiko,Cancún,5971.5
+661,Deutschland,Karlsruhe,9161.4
+662,USA,Honolulu,6048.75
+663,Südkorea,Pyeongtaek,4477.8
+664,Südkorea,Pyeongtaek,6224.7
+665,Südkorea,Pyeongtaek,5814.75
+666,Südkorea,Pyeongtaek,7499.4
+667,China,Nanjing,4099.95
+668,Südkorea,Pyeongtaek,8394.45
+669,Mexiko,Cancún,7660.95
+670,USA,Honolulu,7569.45
+671,Südkorea,Pyeongtaek,5196.6
+672,Südkorea,Pyeongtaek,8705.1
+673,Deutschland,Karlsruhe,5610.15
+674,Südkorea,Pyeongtaek,3227.1
+675,Südkorea,Pyeongtaek,5884.8
+676,Mexiko,Cancún,4987.8
+677,Mexiko,Cancún,7073.25
+678,USA,Honolulu,5125.65
+679,USA,Honolulu,9572.55
+680,Vereinigtes Königreich,Leeds,4848.6
+681,USA,Orlando,5120.1
+682,Vereinigtes Königreich,Leeds,5880.15
+683,Südkorea,Pyeongtaek,4303.5
+684,USA,Orlando,7691.1
+685,Deutschland,Freiburg,4384.2
+686,USA,Orlando,5382.0
+687,Südkorea,Pyeongtaek,3213.45
+688,Vereinigtes Königreich,Leeds,6148.65
+689,Deutschland,Freiburg,7288.5
+690,Südkorea,Pyeongtaek,5555.55
+691,Südkorea,Pyeongtaek,8141.55
+692,Südkorea,Pyeongtaek,7714.05
+693,USA,Orlando,4873.5
+694,Mexiko,Cancún,6806.1
+695,Vereinigtes Königreich,Leeds,4771.2
+696,Südkorea,Mokpo,4809.9
+697,China,Nanjing,6279.0
+698,USA,Orlando,8284.2
+699,USA,Orlando,3356.4
+700,Südkorea,Mokpo,6253.5
+701,Südkorea,Mokpo,3738.3
+702,China,Nanjing,6899.1
+703,Mexiko,Cancún,6602.25
+704,Mexiko,Cancún,6771.45
+705,Deutschland,Freiburg,10980.45
+706,Südkorea,Mokpo,6249.75
+707,Deutschland,Freiburg,7098.45
+708,China,Nanjing,4926.15
+709,USA,Orlando,8540.25
+710,Deutschland,Freiburg,4834.5
+711,USA,Orlando,7625.4
+712,USA,Orlando,7540.5
+713,Südkorea,Mokpo,4658.4
+714,China,Nanjing,5514.9
+715,China,Nanjing,4631.1
+716,Mexiko,Cancún,3771.9
+717,Südkorea,Mokpo,7862.55
+718,Südkorea,Mokpo,8256.3
+719,USA,Orlando,9354.15
+720,Vereinigtes Königreich,Leeds,7558.95
+721,Vereinigtes Königreich,Leeds,5961.75
+722,USA,Orlando,7816.05
+723,USA,Orlando,6127.35
+724,Mexiko,Cancún,7458.0
+725,Südkorea,Mokpo,5015.25
+726,Südkorea,Mokpo,7856.55
+727,Südkorea,Mokpo,4849.8
+728,USA,Orlando,6919.8
+729,Südkorea,Mokpo,4111.2
+730,Südkorea,Mokpo,4999.2
+731,USA,Jackson,7654.65
+732,Südkorea,Mokpo,3952.65
+733,Südkorea,Mokpo,8285.1
+734,Südkorea,Mokpo,5185.5
+735,Südkorea,Mokpo,6258.0
+736,Deutschland,Freiburg,5434.5
+737,Südkorea,Mokpo,6318.9
+738,Deutschland,Freiburg,9192.75
+739,Südkorea,Gimpo,5217.3
+740,Südkorea,Gimpo,3322.65
+741,China,Nanjing,6471.15
+742,Mexiko,Guanajuato,7227.75
+743,China,Nanjing,5290.95
+744,Südkorea,Gimpo,5911.05
+745,Südkorea,Gimpo,6537.75
+746,Südkorea,Gimpo,7083.45
+747,Deutschland,Freiburg,8160.75
+748,Südkorea,Gimpo,3880.5
+749,Mexiko,Guanajuato,8434.95
+750,Vereinigtes Königreich,Leeds,8611.8
+751,Vereinigtes Königreich,Leeds,6804.15
+752,Südkorea,Gimpo,5856.0
+753,USA,Jackson,8013.6
+754,Südkorea,Gimpo,3191.85
+755,Südkorea,Gimpo,6761.7
+756,Vereinigtes Königreich,Leeds,10557.75
+757,Vereinigtes Königreich,Leeds,2965.5
+758,China,Nanjing,3493.65
+759,USA,Jackson,7691.7
+760,Südkorea,Gimpo,4760.4
+761,Deutschland,Freiburg,7465.95
+762,USA,Jackson,3912.9
+763,Deutschland,Freiburg,8678.7
+764,USA,Jackson,5716.8
+765,Deutschland,Freiburg,9359.25
+766,USA,Jackson,6513.6
+767,Südkorea,Gimpo,6255.45
+768,Mexiko,Guanajuato,7130.25
+769,China,Nanjing,5607.75
+770,Mexiko,Guanajuato,7482.9
+771,USA,Jackson,7360.05
+772,USA,Jackson,5311.65
+773,Südkorea,Gimpo,6464.7
+774,Deutschland,Freiburg,6899.1
+775,China,Jinan,5710.5
+776,China,Jinan,5062.65
+777,Südkorea,Gimpo,8460.3
+778,Südkorea,Gimpo,6063.0
+779,Südkorea,Gimpo,5039.85
+780,Südkorea,Gimpo,4831.95
+781,Vereinigtes Königreich,Leeds,5430.9
+782,China,Jinan,5795.55
+783,Südkorea,Gimpo,7086.15
+784,Mexiko,Guanajuato,4579.35
+785,Vereinigtes Königreich,Leeds,4253.55
+786,Deutschland,Freiburg,9806.7
+787,Deutschland,Freiburg,10248.0
+788,Südkorea,Gimpo,11613.3
+789,Südkorea,Gimpo,4195.95
+790,USA,Jackson,5166.75
+791,China,Jinan,5706.9
+792,Südkorea,Gimpo,5330.7
+793,Deutschland,Freiburg,10566.9
+794,Vereinigtes Königreich,Leeds,4768.95
+795,Vereinigtes Königreich,Leeds,8170.2
+796,Südkorea,Gimpo,6531.15
+797,USA,Jackson,8546.55
+798,Südkorea,Gimpo,6659.25
+799,China,Jinan,5217.3
+800,Deutschland,Freiburg,7741.05
+801,Südkorea,Osan,5561.25
+802,Deutschland,Freiburg,8212.2
+803,Mexiko,Guanajuato,8148.15
+804,Deutschland,Freiburg,10823.1
+805,USA,Jackson,4805.55
+806,China,Jinan,5564.1
+807,Südkorea,Osan,5194.35
+808,Südkorea,Osan,3340.5
+809,Mexiko,Guanajuato,5406.0
+810,Südkorea,Osan,7228.2
+811,Deutschland,Leipzig,8603.1
+812,Südkorea,Osan,5479.35
+813,Südkorea,Osan,6759.45
+814,USA,Jackson,5331.45
+815,Südkorea,Osan,7994.1
+816,Mexiko,Guanajuato,5043.75
+817,Südkorea,Osan,4159.8
+818,China,Jinan,5601.9
+819,Südkorea,Osan,4240.05
+820,USA,Jackson,6275.1
+821,China,Jinan,4495.8
+822,Südkorea,Osan,5160.45
+823,USA,Jackson,10069.35
+824,Südkorea,Osan,7174.65
+825,Südkorea,Osan,7545.9
+826,Südkorea,Osan,4528.8
+827,Deutschland,Leipzig,8830.5
+828,China,Jinan,3220.95
+829,Deutschland,Leipzig,8584.35
+830,USA,Baton Rouge,6961.2
+831,USA,Baton Rouge,5266.05
+832,USA,Baton Rouge,5563.05
+833,Deutschland,Leipzig,9711.9
+834,Vereinigtes Königreich,Leeds,5229.3
+835,Südkorea,Osan,5339.25
+836,China,Jinan,6557.55
+837,USA,Baton Rouge,6107.55
+838,Südkorea,Osan,8092.95
+839,Südkorea,Osan,4115.4
+840,Mexiko,Guanajuato,3951.3
+841,China,Jinan,5695.95
+842,Südkorea,Osan,3871.95
+843,China,Jinan,4524.45
+844,Vereinigtes Königreich,Leeds,6054.0
+845,Südkorea,Osan,5769.75
+846,China,Jinan,5573.55
+847,Vereinigtes Königreich,Leeds,5545.95
+848,China,Jinan,6222.45
+849,Südkorea,Osan,8522.4
+850,China,Jinan,5576.4
+851,Südkorea,Paju,3648.9
+852,Deutschland,Leipzig,6241.95
+853,USA,Baton Rouge,7484.7
+854,USA,Baton Rouge,6938.4
+855,Mexiko,Guanajuato,4987.95
+856,Südkorea,Paju,4729.35
+857,Deutschland,Leipzig,6562.8
+858,China,Jinan,4342.95
+859,USA,Baton Rouge,6602.1
+860,China,Jinan,6462.75
+861,Südkorea,Paju,6960.0
+862,USA,Baton Rouge,5838.6
+863,Südkorea,Paju,5628.3
+864,China,Jinan,6088.35
+865,Südkorea,Paju,6413.4
+866,Vereinigtes Königreich,Leeds,7450.95
+867,Südkorea,Paju,8937.3
+868,Südkorea,Paju,5283.75
+869,Südkorea,Paju,6429.9
+870,Südkorea,Paju,6502.65
+871,Südkorea,Paju,6807.3
+872,Mexiko,Guanajuato,3361.35
+873,Deutschland,Leipzig,8028.9
+874,Südkorea,Paju,6347.25
+875,Mexiko,Guanajuato,10793.1
+876,Mexiko,San Luis Potosi,5716.2
+877,China,Jinan,6304.8
+878,Südkorea,Paju,4867.8
+879,USA,Baton Rouge,7763.1
+880,Südkorea,Paju,3265.65
+881,USA,Baton Rouge,5600.4
+882,China,Jinan,6646.65
+883,China,Jinan,3804.45
+884,China,Jinan,4940.7
+885,Südkorea,Paju,4885.65
+886,Südkorea,Paju,5648.85
+887,Deutschland,Leipzig,7328.55
+888,Deutschland,Leipzig,8794.5
+889,USA,Baton Rouge,6364.05
+890,Südkorea,Paju,8038.5
+891,Südkorea,Paju,7490.85
+892,Südkorea,Paju,5058.6
+893,USA,Baton Rouge,8998.8
+894,Deutschland,Leipzig,5111.25
+895,Südkorea,Naju,10227.9
+896,Deutschland,Leipzig,8602.35
+897,Deutschland,Leipzig,7953.6
+898,Südkorea,Naju,5526.9
+899,Mexiko,San Luis Potosi,5908.5
+900,China,Jinan,4486.5
+901,Vereinigtes Königreich,Leeds,4017.45
+902,Südkorea,Naju,9342.75
+903,Südkorea,Naju,2610.9
+904,USA,Baton Rouge,6670.2
+905,Südkorea,Naju,6787.2
+906,Vereinigtes Königreich,Leeds,8629.95
+907,China,Jinan,4541.1
+908,Südkorea,Naju,5818.05
+909,USA,Baton Rouge,6751.8
+910,Südkorea,Naju,6641.85
+911,China,Jinan,4665.9
+912,Deutschland,Bremen,7391.25
+913,USA,Baton Rouge,7192.05
+914,Vereinigtes Königreich,Birmingham,5110.2
+915,Deutschland,Bremen,5536.8
+916,USA,Fort Worth,10948.95
+917,Vereinigtes Königreich,Birmingham,8034.15
+918,Mexiko,San Luis Potosi,7927.65
+919,Vereinigtes Königreich,Birmingham,7434.0
+920,USA,Fort Worth,6898.5
+921,Südkorea,Naju,7241.25
+922,USA,Fort Worth,8566.65
+923,Deutschland,Bremen,4235.7
+924,Südkorea,Naju,5788.65
+925,China,Jinan,4637.1
+926,Deutschland,Bremen,7016.25
+927,Südkorea,Naju,8032.95
+928,Mexiko,San Luis Potosi,6595.2
+929,Deutschland,Bremen,10216.65
+930,China,Jinan,4657.5
+931,Deutschland,Bremen,8000.4
+932,USA,Fort Worth,7249.5
+933,USA,Fort Worth,7987.65
+934,USA,Fort Worth,5526.9
+935,Südkorea,Naju,5608.35
+936,Südkorea,Naju,6932.7
+937,Südkorea,Naju,6343.65
+938,Mexiko,San Luis Potosi,6766.65
+939,Deutschland,Bremen,7444.65
+940,Deutschland,Bremen,6928.95
+941,Südkorea,Naju,5694.6
+942,Südkorea,Naju,7734.3
+943,China,Jinan,5386.05
+944,USA,Fort Worth,7054.5
+945,Südkorea,Naju,4592.85
+946,Südkorea,Naju,5001.45
+947,Mexiko,San Luis Potosi,9553.95
+948,USA,Fort Worth,8286.0
+949,China,Jinan,5309.55
+950,China,Jinan,6508.65
+951,Südkorea,Naju,5820.9
+952,USA,Fort Worth,6236.85
+953,USA,Fort Worth,8341.05
+954,Mexiko,San Luis Potosi,6032.85
+955,USA,Fort Worth,5908.2
+956,Deutschland,Bremen,3544.35
+957,Vereinigtes Königreich,Birmingham,6685.95
+958,Deutschland,Bremen,6033.6
+959,Mexiko,San Luis Potosi,6515.7
+960,China,Jinan,6563.85
+961,Südkorea,Naju,6225.75
+962,Südkorea,Naju,7110.75
+963,Südkorea,Naju,10528.05
+964,Mexiko,San Luis Potosi,9239.85
+965,Mexiko,San Luis Potosi,2055.45
+966,Südkorea,Gimhae,7378.2
+967,USA,Fort Worth,9180.9
+968,Südkorea,Gimhae,6027.0
+969,China,Luoyang,5290.95
+970,USA,Fort Worth,6266.55
+971,Vereinigtes Königreich,Birmingham,5962.8
+972,USA,Fort Worth,9042.3
+973,Südkorea,Gimhae,7288.5
+974,Südkorea,Gimhae,5627.4
+975,USA,Hartford,6777.6
+976,Südkorea,Gimhae,5478.0
+977,USA,Hartford,7922.25
+978,USA,Hartford,5137.35
+979,USA,Hartford,7113.6
+980,USA,Hartford,6320.55
+981,Südkorea,Gimhae,6566.55
+982,USA,Hartford,4453.8
+983,Deutschland,Bremen,6312.9
+984,USA,Hartford,4156.95
+985,China,Luoyang,4587.75
+986,China,Luoyang,6126.6
+987,USA,Hartford,5654.25
+988,USA,Hartford,6404.55
+989,Deutschland,Bremen,6825.45
+990,Mexiko,San Luis Potosi,7770.15
+991,USA,Hartford,6813.15
+992,China,Luoyang,5678.7
+993,Mexiko,Durango,7772.4
+994,USA,Hartford,7227.6
+995,Südkorea,Gimhae,6676.95
+996,USA,Hartford,8362.8
+997,Deutschland,Bremen,5897.4
+998,Deutschland,Bremen,9546.15
+999,Deutschland,Bremen,7158.0
+1000,Südkorea,Gimhae,5534.55
+1001,Südkorea,Gimhae,6284.7
+1002,Vereinigtes Königreich,Birmingham,5437.65
+1003,China,Luoyang,8587.2
+1004,USA,Hartford,9439.05
+1005,USA,Hartford,5506.35
+1006,Südkorea,Gimhae,6589.8
+1007,USA,Hartford,6166.05
+1008,Südkorea,Gimhae,10650.6
+1009,USA,Hartford,8602.05
+1010,USA,Hartford,5246.4
+1011,China,Luoyang,6857.4
+1012,Deutschland,Bremen,7771.5
+1013,Südkorea,Gimhae,6337.65
+1014,Deutschland,Bremen,8289.75
+1015,Südkorea,Gimhae,10390.5
+1016,Südkorea,Gimhae,7198.2
+1017,Südkorea,Gimhae,7931.7
+1018,China,Luoyang,3970.95
+1019,USA,Salem,9539.1
+1020,Südkorea,Gimhae,6535.2
+1021,Deutschland,Hamburg,4127.1
+1022,Deutschland,Hamburg,9112.95
+1023,Südkorea,Gimhae,5137.65
+1024,Südkorea,Gimhae,6381.75
+1025,Deutschland,Hamburg,7612.05
+1026,USA,Salem,7007.85
+1027,Mexiko,Durango,7071.6
+1028,Deutschland,Hamburg,7543.65
+1029,Südkorea,Gimhae,5849.7
+1030,China,Luoyang,4834.8
+1031,Deutschland,Hamburg,6253.65
+1032,USA,Salem,5889.6
+1033,Südkorea,Gimhae,4778.1
+1034,China,Luoyang,7172.7
+1035,Südkorea,Gimhae,5153.4
+1036,Mexiko,Durango,4595.25
+1037,China,Luoyang,6168.9
+1038,Mexiko,Durango,4276.35
+1039,Südkorea,Gimhae,4943.55
+1040,Südkorea,Gimhae,5840.25
+1041,Deutschland,Hamburg,9094.05
+1042,USA,Salem,8994.3
+1043,USA,Salem,6670.35
+1044,Vereinigtes Königreich,Birmingham,8422.65
+1045,Mexiko,Durango,6861.6
+1046,Südkorea,Bucheon,8130.0
+1047,China,Luoyang,5532.3
+1048,Deutschland,Hamburg,6716.55
+1049,USA,Salem,9042.3
+1050,Vereinigtes Königreich,Birmingham,8451.6
+1051,China,Luoyang,6597.15
+1052,Vereinigtes Königreich,Birmingham,11326.5
+1053,Mexiko,Durango,4633.35
+1054,USA,Salem,5905.35
+1055,Deutschland,Hamburg,7496.55
+1056,Vereinigtes Königreich,Birmingham,4964.25
+1057,Deutschland,Hamburg,7787.25
+1058,USA,Salem,8631.45
+1059,Vereinigtes Königreich,Birmingham,4506.0
+1060,Südkorea,Bucheon,5845.35
+1061,Südkorea,Bucheon,12189.45
+1062,Südkorea,Bucheon,7023.45
+1063,USA,Salem,7672.8
+1064,Vereinigtes Königreich,Birmingham,8471.7
+1065,China,Luoyang,4508.25
+1066,Deutschland,Hamburg,4499.55
+1067,USA,Salem,5460.6
+1068,Südkorea,Bucheon,6576.15
+1069,USA,Salem,5937.75
+1070,Deutschland,Hamburg,5302.35
+1071,Mexiko,Durango,9707.55
+1072,Deutschland,Hamburg,11228.1
+1073,USA,Salem,9145.65
+1074,Südkorea,Bucheon,6529.65
+1075,Deutschland,Hamburg,8846.25
+1076,USA,Salem,9833.7
+1077,China,Luoyang,7121.85
+1078,Südkorea,Bucheon,6400.95
+1079,Deutschland,Hamburg,8325.0
+1080,Südkorea,Bucheon,4784.55
+1081,USA,Salem,4319.7
+1082,USA,Montgomery,5961.0
+1083,USA,Montgomery,7283.85
+1084,USA,Montgomery,4405.05
+1085,Mexiko,Durango,7329.9
+1086,Deutschland,Hamburg,5429.85
+1087,Südkorea,Bucheon,10140.3
+1088,USA,Montgomery,6071.7
+1089,Vereinigtes Königreich,Birmingham,7130.25
+1090,USA,Montgomery,6353.85
+1091,Deutschland,Nürnberg,9379.8
+1092,Südkorea,Bucheon,9439.65
+1093,China,Luoyang,5171.55
+1094,Deutschland,Nürnberg,9021.3
+1095,Südkorea,Bucheon,5113.8
+1096,USA,Montgomery,7737.15
+1097,China,Luoyang,6868.8
+1098,China,Luoyang,5157.3
+1099,Südkorea,Bucheon,10564.05
+1100,Südkorea,Bucheon,5310.45
+1101,Südkorea,Bucheon,4947.75
+1102,China,Luoyang,4057.2
+1103,USA,Montgomery,6479.4
+1104,Südkorea,Bucheon,8243.85
+1105,China,Luoyang,5644.65
+1106,Südkorea,Bucheon,6676.65
+1107,Südkorea,Bucheon,4021.8
+1108,USA,Montgomery,8594.4
+1109,Vereinigtes Königreich,Birmingham,4926.75
+1110,Deutschland,Nürnberg,8622.15
+1111,Mexiko,Durango,6930.9
+1112,USA,Montgomery,5569.95
+1113,China,Shenyang,5395.35
+1114,Deutschland,Nürnberg,7019.55
+1115,Mexiko,Durango,3688.65
+1116,Südkorea,Bucheon,5586.3
+1117,USA,Montgomery,5505.0
+1118,Südkorea,Bucheon,6023.1
+1119,Mexiko,Durango,2193.6
+1120,China,Shenyang,4431.75
+1121,Südkorea,Anyang,4134.75
+1122,Südkorea,Anyang,4602.3
+1123,Vereinigtes Königreich,Birmingham,8779.2
+1124,Mexiko,Durango,6492.3
+1125,China,Shenyang,5561.25
+1126,Südkorea,Anyang,3491.25
+1127,Südkorea,Anyang,4682.85
+1128,Südkorea,Anyang,9327.0
+1129,Südkorea,Anyang,4667.7
+1130,USA,Montgomery,7501.05
+1131,USA,Montgomery,9297.75
+1132,Deutschland,Nürnberg,8548.95
+1133,USA,Montgomery,5713.65
+1134,China,Shenyang,4125.75
+1135,Südkorea,Anyang,6262.65
+1136,China,Shenyang,5613.0
+1137,China,Shenyang,5003.7
+1138,China,Shenyang,4386.45
+1139,Deutschland,Nürnberg,7527.15
+1140,China,Shenyang,5089.05
+1141,Mexiko,Durango,5820.15
+1142,Südkorea,Anyang,8481.75
+1143,USA,Montgomery,6945.45
+1144,China,Shenyang,5942.7
+1145,Südkorea,Anyang,7858.2
+1146,China,Shenyang,5490.3
+1147,Deutschland,Nürnberg,8147.1
+1148,China,Shenyang,3692.25
+1149,Deutschland,Nürnberg,5899.8
+1150,USA,Montgomery,5144.55
+1151,Südkorea,Anyang,6907.2
+1152,Vereinigtes Königreich,Birmingham,4138.95
+1153,Südkorea,Anyang,4523.4
+1154,USA,Montgomery,7556.85
+1155,Südkorea,Anyang,7718.1
+1156,Mexiko,Durango,8208.45
+1157,Südkorea,Anyang,3796.05
+1158,Deutschland,Nürnberg,8824.2
+1159,USA,Montgomery,6566.85
+1160,China,Shenyang,6194.85
+1161,USA,Topeka,7449.3
+1162,Mexiko,Durango,5549.4
+1163,China,Shenyang,6672.6
+1164,Deutschland,Nürnberg,5804.85
+1165,Südkorea,Anyang,9264.75
+1166,Deutschland,Nürnberg,9183.0
+1167,Südkorea,Anyang,4847.7
+1168,Deutschland,Nürnberg,5431.35
+1169,Vereinigtes Königreich,Birmingham,3208.5
+1170,China,Shenyang,6310.95
+1171,Vereinigtes Königreich,Birmingham,4195.05
+1172,Deutschland,Nürnberg,5496.45
+1173,Südkorea,Anyang,6198.15
+1174,Südkorea,Anyang,7370.85
+1175,Vereinigtes Königreich,Birmingham,6883.5
+1176,USA,Topeka,5096.4
+1177,USA,Topeka,9855.15
+1178,Südkorea,Anyang,4320.45
+1179,Südkorea,Anyang,5602.05
+1180,Mexiko,Acapulco,4528.8
+1181,Deutschland,Nürnberg,8519.85
+1182,Südkorea,Anyang,5446.35
+1183,Mexiko,Acapulco,6615.75
+1184,Südkorea,Miryang,4798.95
+1185,Deutschland,Nürnberg,7529.85
+1186,Südkorea,Miryang,3970.65
+1187,Mexiko,Acapulco,5171.7
+1188,Mexiko,Acapulco,7775.4
+1189,USA,Topeka,8656.95
+1190,USA,Topeka,6334.5
+1191,USA,Topeka,9067.35
+1192,Mexiko,Acapulco,5080.8
+1193,Südkorea,Miryang,2823.45
+1194,USA,Topeka,6114.3
+1195,China,Shenyang,4776.45
+1196,USA,Topeka,8737.5
+1197,Südkorea,Miryang,8157.0
+1198,USA,Topeka,8983.95
+1199,USA,Topeka,7414.8
+1200,Mexiko,Acapulco,5680.2
+1201,Vereinigtes Königreich,Birmingham,4713.0
+1202,China,Shenyang,5687.1
+1203,Vereinigtes Königreich,Birmingham,8206.8
+1204,USA,Topeka,7061.4
+1205,USA,Topeka,6714.9
+1206,USA,Topeka,8833.8
+1207,USA,Topeka,7419.45
+1208,Vereinigtes Königreich,Birmingham,7929.15
+1209,China,Shenyang,2608.2
+1210,USA,Topeka,7240.35
+1211,Vereinigtes Königreich,Birmingham,4402.35
+1212,Südkorea,Miryang,5625.0
+1213,Deutschland,Nürnberg,9233.4
+1214,Südkorea,Miryang,6363.3
+1215,USA,Topeka,5629.2
+1216,China,Shenyang,6674.4
+1217,Deutschland,Nürnberg,7829.55
+1218,China,Shenyang,3237.75
+1219,Mexiko,Acapulco,8255.4
+1220,USA,Phoenix,7669.05
+1221,Deutschland,Stuttgart,6746.7
+1222,Deutschland,Stuttgart,11168.25
+1223,Vereinigtes Königreich,Birmingham,6284.1
+1224,Vereinigtes Königreich,Birmingham,5839.95
+1225,USA,Phoenix,6838.5
+1226,China,Quingdao,3992.4
+1227,Deutschland,Stuttgart,6277.2
+1228,USA,Phoenix,4792.2
+1229,Südkorea,Miryang,2122.2
+1230,China,Quingdao,5023.35
+1231,USA,Phoenix,3949.8
+1232,Südkorea,Miryang,6627.6
+1233,Südkorea,Miryang,4209.15
+1234,Mexiko,Acapulco,4766.1
+1235,Mexiko,Acapulco,7729.2
+1236,USA,Phoenix,10502.1
+1237,USA,Phoenix,7094.4
+1238,Vereinigtes Königreich,Birmingham,7451.7
+1239,China,Quingdao,5460.75
+1240,Südkorea,Miryang,6454.5
+1241,USA,Phoenix,7398.75
+1242,Deutschland,Stuttgart,8863.35
+1243,Südkorea,Miryang,4982.1
+1244,USA,Phoenix,7623.6
+1245,Südkorea,Miryang,6353.1
+1246,USA,Richmond,4927.95
+1247,USA,Richmond,5653.35
+1248,Mexiko,Acapulco,7067.7
+1249,USA,Richmond,8110.5
+1250,USA,Richmond,4433.7
+1251,USA,Richmond,4954.2
+1252,Mexiko,Acapulco,6609.9
+1253,Südkorea,Miryang,4082.1
+1254,USA,Richmond,8219.25
+1255,USA,Richmond,6629.7
+1256,Südkorea,Miryang,5734.35
+1257,USA,Richmond,5287.05
+1258,USA,San José,6337.35
+1259,USA,San José,6812.55
+1260,USA,San José,4273.8
+1261,China,Quingdao,5420.1
+1262,Deutschland,Stuttgart,7609.35
+1263,USA,San José,6046.95
+1264,Deutschland,Stuttgart,6892.95
+1265,Vereinigtes Königreich,Birmingham,6472.8
+1266,Südkorea,Miryang,9752.1
+1267,Deutschland,Stuttgart,8967.0
+1268,Mexiko,Acapulco,4487.85
+1269,USA,San José,7951.5
+1270,USA,San José,4648.8
+1271,China,Quingdao,4858.35
+1272,China,Quingdao,5170.05
+1273,USA,San José,8608.35
+1274,China,Quingdao,6747.15
+1275,China,Quingdao,4182.0
+1276,Vereinigtes Königreich,Birmingham,6430.5
+1277,USA,San José,8220.15
+1278,Südkorea,Miryang,6187.8
+1279,Südkorea,Miryang,8526.75
+1280,Südkorea,Miryang,6481.8
+1281,USA,San José,8104.05
+1282,USA,San José,7971.75
+1283,Mexiko,Torreón,5402.7
+1284,USA,San José,7450.35
+1285,Südkorea,Silheung,5780.4
+1286,Deutschland,Stuttgart,8439.75
+1287,Deutschland,Stuttgart,9133.8
+1288,Südkorea,Silheung,5716.05
+1289,Mexiko,Torreón,4090.2
+1290,Südkorea,Silheung,7597.8
+1291,Vereinigtes Königreich,Leicester,6995.4
+1292,Südkorea,Silheung,4672.5
+1293,Südkorea,Silheung,2756.7
+1294,USA,San José,4091.1
+1295,Deutschland,Stuttgart,8039.85
+1296,USA,San José,5920.5
+1297,Südkorea,Silheung,4330.65
+1298,Südkorea,Silheung,6565.2
+1299,Deutschland,Stuttgart,7238.25
+1300,Mexiko,Torreón,4089.75
+1301,Südkorea,Silheung,6386.7
+1302,China,Quingdao,4296.75
+1303,Südkorea,Silheung,5283.0
+1304,Deutschland,Stuttgart,6944.7
+1305,Deutschland,Stuttgart,6096.15
+1306,China,Quingdao,6448.65
+1307,Vereinigtes Königreich,Leicester,9498.75
+1308,Deutschland,Stuttgart,11552.7
+1309,Deutschland,Stuttgart,4195.35
+1310,Südkorea,Silheung,5197.5
+1311,Vereinigtes Königreich,Leicester,5408.7
+1312,Deutschland,Stuttgart,5086.5
+1313,China,Quingdao,5936.25
+1314,Südkorea,Silheung,4559.85
+1315,Südkorea,Silheung,4480.65
+1316,Mexiko,Torreón,4515.3
+1317,USA,San José,9140.25
+1318,Südkorea,Silheung,5289.45
+1319,Mexiko,Torreón,6936.6
+1320,Südkorea,Silheung,7634.85
+1321,Deutschland,Stuttgart,7638.0
+1322,Deutschland,Stuttgart,5907.75
+1323,Südkorea,Silheung,12093.3
+1324,Vereinigtes Königreich,Leicester,5640.9
+1325,USA,San José,7719.6
+1326,Südkorea,Silheung,6643.2
+1327,China,Quingdao,5241.3
+1328,Deutschland,Stuttgart,5156.55
+1329,USA,San José,4236.75
+1330,China,Quingdao,6972.6
+1331,USA,San José,8302.95
+1332,China,Quingdao,5892.0
+1333,Südkorea,Silheung,8496.9
+1334,Mexiko,Torreón,5104.95
+1335,Südkorea,Silheung,6159.3
+1336,USA,Sacramento,4681.2
+1337,Südkorea,Silheung,5891.25
+1338,Südkorea,Silheung,3859.8
+1339,USA,Sacramento,6860.85
+1340,USA,Sacramento,5734.95
+1341,Vereinigtes Königreich,Leicester,4671.75
+1342,USA,Sacramento,9565.5
+1343,USA,Sacramento,7279.2
+1344,Deutschland,Stuttgart,9294.3
+1345,Deutschland,Stuttgart,9065.25
+1346,Mexiko,Torreón,4472.1
+1347,Vereinigtes Königreich,Leicester,8533.05
+1348,USA,Sacramento,5570.85
+1349,Südkorea,Silheung,6458.85
+1350,Südkorea,Silheung,5418.0
+1351,Südkorea,Silheung,5707.35
+1352,Vereinigtes Königreich,Leicester,7622.4
+1353,Südkorea,Silheung,3759.9
+1354,Südkorea,Silheung,7080.15
+1355,Mexiko,Torreón,6050.55
+1356,China,Quingdao,5502.75
+1357,Deutschland,Stuttgart,8143.5
+1358,USA,Sacramento,7712.25
+1359,China,Quingdao,5776.65
+1360,China,Quingdao,4873.35
+1361,Südkorea,Yangsan-si,3825.6
+1362,USA,Sacramento,5938.8
+1363,USA,Sacramento,4419.0
+1364,Südkorea,Yangsan-si,3884.55
+1365,Deutschland,Stuttgart,7270.65
+1366,Südkorea,Yangsan-si,5283.75
+1367,China,Quingdao,4496.25
+1368,USA,Sacramento,7795.05
+1369,Südkorea,Yangsan-si,6586.05
+1370,Vereinigtes Königreich,Leicester,7890.45
+1371,Südkorea,Yangsan-si,8762.4
+1372,Südkorea,Yangsan-si,8589.9
+1373,USA,Sacramento,7632.9
+1374,USA,Sacramento,8977.35
+1375,Südkorea,Yangsan-si,6019.05
+1376,Südkorea,Yangsan-si,6482.4
+1377,Deutschland,Stuttgart,9192.15
+1378,Mexiko,Torreón,9808.95
+1379,USA,Sacramento,8303.55
